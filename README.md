@@ -1,6 +1,7 @@
 # CamemBert
 
-This project aims to label french text as true, fake or biased provided in CSV files using fine tuned Large CamemBERT model, specifically on train.csv dataset.  
+This project aims to label french text as **true**, **fake** or **biased** provided in CSV files using fine tuned **Large CamemBERT model**, specifically on train.csv dataset.  
+Please check **Documentation** for more details.
 
 You can run the code on your local machine using:
 ```bash
