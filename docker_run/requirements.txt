@@ -1,0 +1,13 @@
+pandas
+matplotlib
+scikit-learn
+torch
+transformers
+datasets
+numpy
+sentencepiece
+nltk
+accelerate
+ray[tune]
+optuna
+imbalanced-learn
